@@ -1,1 +1,1 @@
-# FinTechHW1
+FinTechHW1 Case Study
